@@ -1,0 +1,19 @@
+{
+  "works": [
+    {
+      "workDescription": "To Do Item 1",
+      "checkValue": true,
+      "id": 1
+    },
+    {
+      "workDescription": "To Do Item 2",
+      "checkValue": false,
+      "id": 2
+    },
+    {
+      "workDescription": "To Do Item 3",
+      "checkValue": true,
+      "id": 3
+    }
+  ]
+}
